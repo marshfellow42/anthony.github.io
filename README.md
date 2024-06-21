@@ -14,6 +14,6 @@ Mas ele também suporta geradores de sites estáticos, como o Jekyll, onde você
 
 Existe também varios temas que você pode usar, os temas que o GitHub nativamente são [esses](https://pages.github.com/themes/)
 
-Só que, honestamente, eles são muitos simplistas, então eu uso esse [site](http://jekyllthemes.org/) para usar temas mais bonitos, como o Chirpy, que é o que eu utilizo no meu blog
+Só que, honestamente, eles são muitos simplistas, então eu uso esse [site](http://jekyllthemes.org/) para usar temas mais bonitos, como o Chirpy, que é o que eu geralmente utilizo
 
 Geralmente esses temas oferecem um template para usar o tema deles, sem precisar fazer um clone inteiro do tema, como o [Chirpy](https://github.com/cotes2020/chirpy-starter/generate) e o [JustTheDocs](https://github.com/just-the-docs/just-the-docs-template/generate)
