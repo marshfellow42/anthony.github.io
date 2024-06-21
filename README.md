@@ -12,8 +12,6 @@ O GitHub Pages tem algumas limitações, ele não suporta sites dinâmicos, ou s
 
 Mas ele também suporta geradores de sites estáticos, como o Jekyll, onde você pode escrever o site inteiro em Markdown, que ele vai "traduzir" para HTML
 
-Tem alguns exemplos de sites estáticos que eu já criei, como um [site de blog](https://marshfellow42.github.io/)
-
 Existe também varios temas que você pode usar, os temas que o GitHub nativamente são [esses](https://pages.github.com/themes/)
 
 Só que, honestamente, eles são muitos simplistas, então eu uso esse [site](http://jekyllthemes.org/) para usar temas mais bonitos, como o Chirpy, que é o que eu utilizo no meu blog
